@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20201125/01_第一个正式网站/01_第一个正式网站.iml" filepath="$PROJECT_DIR$/../20201125/01_第一个正式网站/01_第一个正式网站.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/02_Servlet接口实现类/02_Servlet接口实现类.iml" filepath="$PROJECT_DIR$/../20201125/02_Servlet接口实现类/02_Servlet接口实现类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/03_Servlet生命周期/03_Servlet生命周期.iml" filepath="$PROJECT_DIR$/../20201125/03_Servlet生命周期/03_Servlet生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/04_HttpServletResponse相关介绍/04_HttpServletResponse相关介绍.iml" filepath="$PROJECT_DIR$/../20201125/04_HttpServletResponse相关介绍/04_HttpServletResponse相关介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/05_HttpServletResquest相关介绍/05_HttpServletResquest相关介绍.iml" filepath="$PROJECT_DIR$/../20201125/05_HttpServletResquest相关介绍/05_HttpServletResquest相关介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/06_在线考试管理系统/06_在线考试管理系统.iml" filepath="$PROJECT_DIR$/../20201125/06_在线考试管理系统/06_在线考试管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/07_HttpStatus_302/07_HttpStatus_302.iml" filepath="$PROJECT_DIR$/../20201125/07_HttpStatus_302/07_HttpStatus_302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/08_Http_405/08_Http_405.iml" filepath="$PROJECT_DIR$/../20201125/08_Http_405/08_Http_405.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/09_Http_500/09_Http_500.iml" filepath="$PROJECT_DIR$/../20201125/09_Http_500/09_Http_500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/10_重定向解决方案/10_重定向解决方案.iml" filepath="$PROJECT_DIR$/../20201125/10_重定向解决方案/10_重定向解决方案.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/11_请求转发解决方案/11_请求转发解决方案.iml" filepath="$PROJECT_DIR$/../20201125/11_请求转发解决方案/11_请求转发解决方案.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/12_ServletContext使用介绍/12_ServletContext使用介绍.iml" filepath="$PROJECT_DIR$/../20201125/12_ServletContext使用介绍/12_ServletContext使用介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/13_Cookie/13_Cookie.iml" filepath="$PROJECT_DIR$/../20201125/13_Cookie/13_Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/14_HttpSession模拟购物车/14_HttpSession模拟购物车.iml" filepath="$PROJECT_DIR$/../20201125/14_HttpSession模拟购物车/14_HttpSession模拟购物车.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/15_请求转发过程中的数据共享/15_请求转发过程中的数据共享.iml" filepath="$PROJECT_DIR$/../20201125/15_请求转发过程中的数据共享/15_请求转发过程中的数据共享.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/16_ServletContextListener接口使用/16_ServletContextListener接口使用.iml" filepath="$PROJECT_DIR$/../20201125/16_ServletContextListener接口使用/16_ServletContextListener接口使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/17_ServletContextAttributeListener接口/17_ServletContextAttributeListener接口.iml" filepath="$PROJECT_DIR$/../20201125/17_ServletContextAttributeListener接口/17_ServletContextAttributeListener接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/18_过滤器检测请求合法性/18_过滤器检测请求合法性.iml" filepath="$PROJECT_DIR$/../20201125/18_过滤器检测请求合法性/18_过滤器检测请求合法性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/19_过滤器对请求对象进行增强处理/19_过滤器对请求对象进行增强处理.iml" filepath="$PROJECT_DIR$/../20201125/19_过滤器对请求对象进行增强处理/19_过滤器对请求对象进行增强处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/20_JSP文件使用展示/20_JSP文件使用展示.iml" filepath="$PROJECT_DIR$/../20201125/20_JSP文件使用展示/20_JSP文件使用展示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/21_JSP文件Java命令书写规则/21_JSP文件Java命令书写规则.iml" filepath="$PROJECT_DIR$/../20201125/21_JSP文件Java命令书写规则/21_JSP文件Java命令书写规则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/22_JSP文件内置Java对象/22_JSP文件内置Java对象.iml" filepath="$PROJECT_DIR$/../20201125/22_JSP文件内置Java对象/22_JSP文件内置Java对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/23_Servlet与JSP联合调用案例/23_Servlet与JSP联合调用案例.iml" filepath="$PROJECT_DIR$/../20201125/23_Servlet与JSP联合调用案例/23_Servlet与JSP联合调用案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20201125/24_JSP文件调用原理分析/24_JSP文件调用原理分析.iml" filepath="$PROJECT_DIR$/../20201125/24_JSP文件调用原理分析/24_JSP文件调用原理分析.iml" />
+    </modules>
+  </component>
+</project>
