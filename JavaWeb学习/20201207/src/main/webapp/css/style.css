@@ -1,0 +1,10 @@
+body{
+  background-image:url("/myweb/image/薇姐.jpg");
+  background-size:50% 100%
+}
+div.lll li{
+   color:red
+}
+div.lll li:hover{
+  color:yellow
+}
