@@ -7,6 +7,14 @@
         <servlet-name>OneServlet</servlet-name>
         <servlet-class>com.mystudy.controller.OneServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>TwoServlet</servlet-name>
+        <servlet-class>com.mystudy.controller.TwoServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TwoServlet</servlet-name>
+        <url-pattern>/two</url-pattern>
+    </servlet-mapping>
     <servlet-mapping>
         <servlet-name>OneServlet</servlet-name>
         <url-pattern>/one</url-pattern>

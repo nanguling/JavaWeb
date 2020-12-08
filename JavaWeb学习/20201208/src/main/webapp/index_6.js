@@ -1,6 +1,6 @@
 $(function fun() {
     setInterval(function () {
-        $.get("one",function (count) {
+        $.get("two",function (count) {
             $("#content").html(count)
         })
     },5000)
