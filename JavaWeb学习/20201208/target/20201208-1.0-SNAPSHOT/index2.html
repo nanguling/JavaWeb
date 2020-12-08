@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        //定义变量
+        let a = "hello";
+        window.alert(a)
+        //标准方式声明函数
+        function fun1() {
+            window.alert("fun1 is run...");
+        }
+        fun1();
+        //匿名方式声明函数
+        let fun2 = function () {
+            window.alert("fun2 is run");
+        }
+        fun2();
+        //定义数组
+        let arr = [];
+        window.alert(arr.length);//得到长度
+        //定义对象
+        let obj = {name:"mike",age:"20",address:"成都"};
+        window.alert("obj.name = "+obj.name+" obj.age = "+obj.age+" obj.address = "+obj.address);
+    </script>
+</head>
+<body>
+
+</body>
+</html>
