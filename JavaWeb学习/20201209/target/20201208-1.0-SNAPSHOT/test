@@ -1,0 +1,10 @@
+create database db2020 charset utf8mb4;
+
+use db2020;
+
+create table message(
+    id int primary key auto_increment,
+    who varchar(20),
+    when_time varchar(20),
+    what varchar(50)
+);
